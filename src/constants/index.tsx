@@ -1,0 +1,18 @@
+// src/constants/index.tsx
+
+// redux actions
+// UI User action
+export const TOGGLE_COIN = 'TOGGLE_COIN';
+export type TOGGLE_COIN = typeof TOGGLE_COIN;
+// App actions
+export const SET_AVAILABLE_COINS = 'SET_AVAILABLE_COINS';
+export type SET_AVAILABLE_COINS = typeof SET_AVAILABLE_COINS;
+export const REQUEST_AVAILABLE_COINS = 'REQUEST_AVAILABLE_COINS';
+export type REQUEST_AVAILABLE_COINS = typeof REQUEST_AVAILABLE_COINS;
+export const RECEIVE_AVAILABLE_COINS = 'RECEIVE_AVAILABLE_COINS';
+export type RECEIVE_AVAILABLE_COINS = typeof RECEIVE_AVAILABLE_COINS;
+export const FETCH_AVAILABLE_COINS = 'FETCH_AVAILABLE_COINS';
+export type FETCH_AVAILABLE_COINS = typeof FETCH_AVAILABLE_COINS;
+
+export const VALID_CURRENCIES = ['ETH', 'BTC', 'LTC'];
+export const DEFAULT_QUOTE_CURRENCY = 'USD';

@@ -1,0 +1,45 @@
+.coin-box {
+  text-align: left;
+  font-size: 11px;
+  line-height: 1;
+  padding: 10px;
+}
+
+.coin-title {
+  font-family: Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 700; 
+  margin-bottom: 0;
+}
+
+.card-outline-primary {
+  border-color: #0275d8!important;
+}
+
+.coin-move {
+  margin-left: 5px; 
+}
+
+.stats {
+  padding: 5px 0;
+}
+
+.stats-24h {
+    list-style: none !important;
+    margin: 0px;
+    padding: 0 !important;
+}
+
+.stats-24h li {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+    font-size: 11px;
+    font-weight: bold;
+    position: relative;
+}
+
+p.volume-24h, p.volume-30d, p.stats {
+  margin: 0;
+}
+
