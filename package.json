@@ -9,7 +9,7 @@
     "bootstrap": "^4.0.0",
     "font-awesome": "^4.7.0",
     "gdax": "^0.5.1",
-    "highcharts": "^6.0.4",
+    "highcharts": "^8.2.0",
     "lodash": "^4.17.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
